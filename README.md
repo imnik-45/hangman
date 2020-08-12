@@ -1,5 +1,26 @@
 # Hangman
-Hangman Game created using React.Inspired from Traversy Media and codeSTACKr.
+Hangman Game created using React.Inspired from Traversy Media and codeSTACKr. Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
+
+# Hangman Game
+
+<p>Select a letter to figure out a hidden word in a set amount of chances.Solve the puzzle before the hangman dies.</p>
+
+# Project Specifications
+
+- Display hangman pole and figure using SVG
+- Generate a random word
+- Display word in UI with correct letters
+- Display wrong letters
+- Show notification when select a letter twice
+- Show popup on win or lose
+- Play again button to reset game
+
+## ScreenShots
+
+![Screenshot_2020-08-12 Hangman](https://user-images.githubusercontent.com/51753810/90006712-0f2db100-dcb7-11ea-8b4f-d1270cf149a9.png)<hr>
+![Screenshot_2020-08-12 Hangman(1)](https://user-images.githubusercontent.com/51753810/90006716-12c13800-dcb7-11ea-951d-63059dedbcd4.png)<hr>
+![Screenshot_2020-08-12 Hangman(2)](https://user-images.githubusercontent.com/51753810/90006725-15bc2880-dcb7-11ea-9515-d207eb5cfdef.png)<hr>
+![Screenshot_2020-08-12 Hangman(3)](https://user-images.githubusercontent.com/51753810/90006732-181e8280-dcb7-11ea-851c-d0438eb85db5.png)<hr>
 
 ## React
 
