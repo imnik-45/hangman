@@ -22,6 +22,10 @@ Hangman Game created using React.Inspired from Traversy Media and codeSTACKr. Ha
 ![Screenshot_2020-08-12 Hangman(2)](https://user-images.githubusercontent.com/51753810/90006725-15bc2880-dcb7-11ea-9515-d207eb5cfdef.png)<hr>
 ![Screenshot_2020-08-12 Hangman(3)](https://user-images.githubusercontent.com/51753810/90006732-181e8280-dcb7-11ea-851c-d0438eb85db5.png)<hr>
 
+## Note
+
+<p>Please download the dependencies given in Package.json file.</p>
+
 ## React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
