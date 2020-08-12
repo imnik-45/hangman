@@ -1,7 +1,7 @@
 # Hangman
 Hangman Game created using React.Inspired from Traversy Media and codeSTACKr. Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
 
-# Hangman Game
+# How To Play ?
 
 <p>Select a letter to figure out a hidden word in a set amount of chances.Solve the puzzle before the hangman dies.</p>
 
